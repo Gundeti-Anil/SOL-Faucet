@@ -1,12 +1,41 @@
-# React + Vite
+Solana Wallet DApp
+A modern and intuitive web-based Solana wallet application built with React and Tailwind CSS. This decentralized application (DApp) provides essential wallet functionality for interacting with the Solana blockchain on the Devnet.
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Wallet Connection: Connect and disconnect Solana wallets seamlessly
+Balance Display: View your SOL balance in real-time with USD conversion
+Airdrop Requests: Request SOL tokens from the Devnet faucet for testing
+Message Signing: Sign custom messages with your connected wallet
+Token Transfers: Send SOL tokens to other wallet addresses
 
-Currently, two official plugins are available:
+Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React - Frontend framework
+Solana Wallet Adapter - Wallet connection and interaction
+Tailwind CSS - Styling and responsive design
+Lucide React - Icons and UI elements
+Solana Web3.js - Blockchain interaction
 
-## Expanding the ESLint configuration
+Network
+Currently configured for Solana Devnet for development and testing purposes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Getting Started
+
+Clone the repository
+Install dependencies: npm install
+Start the development server: npm start
+Connect your Solana wallet and start interacting with the blockchain
+
+Usage
+
+Connect Wallet: Click the "Connect Wallet" button to link your Solana wallet
+Request Airdrop: Enter an amount and request SOL tokens for testing
+View Balance: Your current SOL balance is displayed prominently
+Advanced Features: Use the dropdown to access message signing and token transfer features
+
+
+
+[Screencast from 2025-06-10 00-35-16.webm](https://github.com/user-attachments/assets/25017296-acbd-40fb-9a2a-262d812d661c)
+
+
