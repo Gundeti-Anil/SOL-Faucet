@@ -34,7 +34,7 @@ Request Airdrop: Enter an amount and request SOL tokens for testing
 View Balance: Your current SOL balance is displayed prominently
 Advanced Features: Use the dropdown to access message signing and token transfer features
 
-
+(In the demo i was reached by airdrop limit)
 
 [Screencast from 2025-06-10 00-35-16.webm](https://github.com/user-attachments/assets/25017296-acbd-40fb-9a2a-262d812d661c)
 
