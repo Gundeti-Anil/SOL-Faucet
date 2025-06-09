@@ -1,4 +1,6 @@
 Solana Wallet DApp
+
+
 A modern and intuitive web-based Solana wallet application built with React and Tailwind CSS. This decentralized application (DApp) provides essential wallet functionality for interacting with the Solana blockchain on the Devnet.
 Features
 
